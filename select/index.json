@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Cipher",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-08T10:59:05.132970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "03. Show Me Love (Cipher Remix)",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/01_03._Show_Me_Love_(Cipher_Remix)_Robyn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DEMON TIME (feat. Nateman & J. Cipher)",
+      "artist": "OLGANG\u0000Nateman\u0000J. Cipher",
+      "has_synced": true,
+      "path": "select/02_DEMON_TIME_(feat._Nateman_&_J._Cipher)_OLGANG\u0000Nateman\u0000J._Cipher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Dandelion Cipher",
+      "artist": "Evergrey",
+      "has_synced": true,
+      "path": "select/03_A_Dandelion_Cipher_Evergrey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cipher.",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/04_Cipher._fhána.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cipher",
+      "artist": "Esoteric",
+      "has_synced": false,
+      "path": "select/05_Cipher_Esoteric.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magic(k) Square Cipher",
+      "artist": "Absu",
+      "has_synced": false,
+      "path": "select/06_Magic(k)_Square_Cipher_Absu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cipher (feat. Beatbox DG)",
+      "artist": "Epik High feat. Beatbox DG",
+      "has_synced": true,
+      "path": "select/07_Cipher_(feat._Beatbox_DG)_Epik_High_feat._Beatbox_DG.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cipher (Feat. Beatbox DG)",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/08_Cipher_(Feat._Beatbox_DG)_Epik_High.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cipher",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Cipher_Empty_old_City.txt"
+    }
+  ]
+}
